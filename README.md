@@ -12,17 +12,17 @@
 
 <!-- - 🎮 Steam [steam_profile](https://steamcommunity.com/id/RainyHere/)-->
 
-<h3 align="left">Connect with me:</h3>
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12156336211?si=8dc7b227e52149cc)
-<p align="left">
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198333517147/)
-     
+<h3 align="left">Connect with me:</h3>    
      <a href="https://twitter.com/ramaral__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramaral__" height="30" width="40" /></a>
           <a href="https://discord.gg/https://discord.gg/sdxyyDuGM2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/sdxyyDuGM2" height="30" width="40" /></a>
   
 </p>
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12156336211?si=8dc7b227e52149cc)
 
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198333517147/)
+
+
+<p align="left">
 <p align="center">
     <br>
   <a href="https://discord.com/users/701831334884278305" target="_blank">
