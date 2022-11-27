@@ -1,5 +1,7 @@
 <!--### print('Hello World 🌍')-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=60a5ff&lines=Hello+Wordl.)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=60a5ff&lines=print)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffba60&lines=Hello+Wordl)
 
 <!--
 **NyctoRAA/NyctoRAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
