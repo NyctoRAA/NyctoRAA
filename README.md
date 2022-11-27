@@ -1,5 +1,5 @@
 ### print('Hello World 🌍')
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=print('Hello World🌍').)](https://www.instagram.com/guilhermekenned_/)
+[Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=print('Hello World🌍').)
 
 <!--
 **NyctoRAA/NyctoRAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
