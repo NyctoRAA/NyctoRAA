@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/NyctoRAA/NyctoRAA/blob/main/7f2d1baa0a92449ec2bbc21772a36762.gif)
 
 <!--### print('Hello World 🌍')-->
 <!--![Typing SVG](https://readme-typing-svg.herokuapp.com?color=60a5ff&lines=print)-->
