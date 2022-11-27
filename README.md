@@ -8,4 +8,5 @@
 - 🔭 I’m currently working on finishing 100 Python exercises 🎉
 - 📌 I’m currently learning Python and Javascript 🔵🟡
 - 📫 How to reach me: Here's my discord: ra®#8812
+- 🎮 Steam [steam_profile](https://steamcommunity.com/id/RainyHere/)
 
