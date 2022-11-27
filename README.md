@@ -1,5 +1,5 @@
 ### print('Hello World 🌍')
-[[Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=print('Hello World🌍').)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=My+Profile.)]
 
 <!--
 **NyctoRAA/NyctoRAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +32,4 @@
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NyctoRAA&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
         <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NyctoRAA&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyctoraa&show_icons=true&locale=en" alt="nyctoraa" /></p>-->
+
