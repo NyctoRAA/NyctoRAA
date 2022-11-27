@@ -1,5 +1,5 @@
 ### print('Hello World 🌍')
-
+<img alt="Discord" src="https://img.shields.io/discord/749825376263471264?color=%23A020F0&label=Discord&logoColor=%23A020F0&style=social">
 <!--
 **NyctoRAA/NyctoRAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
