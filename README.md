@@ -1,5 +1,5 @@
 ### print('Hello World 🌍')
-<img alt="Discord" src="https://img.shields.io/discord/749825376263471264?color=%23A020F0&label=Discord&logoColor=%23A020F0&style=social">
+
 <!--
 **NyctoRAA/NyctoRAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -14,6 +14,7 @@
 <p align="left">
      <a href="https://twitter.com/ramaral__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramaral__" height="30" width="40" /></a>
           <a href="https://discord.gg/https://discord.gg/sdxyyDuGM2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/sdxyyDuGM2" height="30" width="40" /></a>
+    [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/RainyHere/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
