@@ -30,6 +30,6 @@
 
 <div align="center">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KennedG&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
-        <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KennedG&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
+        <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NyctoRAA&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyctoraa&show_icons=true&locale=en" alt="nyctoraa" /></p>
