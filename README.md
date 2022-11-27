@@ -45,7 +45,7 @@
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NyctoRAA&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
         <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NyctoRAA&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />-->
         
-        <h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB">📊 Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
@@ -56,11 +56,11 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingGym&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![NyctoRAA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NyctoRAA&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ProgrammingGym&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingGym&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NyctoRAA&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
     
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
