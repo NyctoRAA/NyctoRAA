@@ -62,6 +62,19 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NyctoRAA&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
+
+<!-- Begin Footer -->
+<!-- Icons Resources -->
+<!-- https://devicon.dev/ -->
+<div class="footer" align="center" style="margin:15px;">
+    <a href="https://www.youtube.com/watch?v=Gr6rBaFAOLI" target="_blank">
+        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
+    </a>
+    <a href="mailto:nyctooutlet@gmail.com" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
+</div>
+<!-- End Footer -->
     
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
