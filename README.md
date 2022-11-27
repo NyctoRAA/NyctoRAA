@@ -17,9 +17,9 @@
           <a href="https://discord.gg/https://discord.gg/sdxyyDuGM2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/sdxyyDuGM2" height="30" width="40" /></a>
   
 </p>
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12156336211?si=8dc7b227e52149cc)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vzjj5ljfv43uzwgx1kzfajjfy)
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198333517147/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/RainyHere/)
 
 
 <p align="left">
