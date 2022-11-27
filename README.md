@@ -21,7 +21,7 @@
 <p align="center">
     <br>
   <a href="https://discord.com/users/701831334884278305" target="_blank">
-    <img width="45%" src="https://lanyard.cnrad.dev/api/493282797222494230?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Status"/>
+    <img width="45%" src="https://lanyard.cnrad.dev/api/701831334884278305?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Status"/>
     </a>
 
 
