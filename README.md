@@ -3,10 +3,7 @@
 <!--![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffba60&lines=Hello+World)-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=60a5ff&lines=print('Hello+World'))
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=ra.exe®)
-<!--
-**NyctoRAA/NyctoRAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=ra.+exe®)
 -=-=-=-=-=-=-=-=-=-=-=-=-= ra.exe® =-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
 
 - 🔭 I’m currently working on finishing 100 Python exercises 🎉
