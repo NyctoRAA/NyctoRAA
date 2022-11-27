@@ -41,9 +41,27 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ra.exe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<div align="center">
+<!--<div align="center">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NyctoRAA&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
-        <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NyctoRAA&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
+        <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NyctoRAA&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />-->
+        
+        <h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center">
+
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingGym&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ProgrammingGym&count_private=true&theme=algolia&border_radius=20)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingGym&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
     
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
