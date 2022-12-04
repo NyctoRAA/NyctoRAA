@@ -9,7 +9,7 @@
 
 -=-=-=-=-=-=-=-=-=-=-=-=-= ra.exe® =-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
 
-- 🔭 I’m currently working on finishing 100 Python exercises 🎉
+- 🔭 I’m currently working on improving my Py/JS programming skills 💻
 - 📌 I’m currently learning Python and Javascript 🔵🟡
 
 <!-- - 🎮 Steam [steam_profile](https://steamcommunity.com/id/RainyHere/)-->
