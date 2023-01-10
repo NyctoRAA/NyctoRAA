@@ -9,8 +9,8 @@
 
 -=-=-=-=-=-=-=-=-=-=-=-=-= ra.exe® =-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
 
-- 🔭 I’m currently working on improving my Py/JS programming skills 💻
-- 📌 I’m currently learning Python and Javascript 🔵🟡
+- 🔭 I’m currently working on improving my programming skills 💻
+- 📌 I’m currently learning .py | .js | .ts | .lua ⚫
 
 <!-- - 🎮 Steam [steam_profile](https://steamcommunity.com/id/RainyHere/)-->
 
