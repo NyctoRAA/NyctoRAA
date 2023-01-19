@@ -10,7 +10,7 @@
 -=-=-=-=-=-=-=-=-=-=-=-=-= ra.exe® =-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
 
 - 🔭 I’m currently working on improving my programming skills and creating my first game with lua 💻
-- 📌 I’m currently learning .py | .js | .ts | .lua ⚫
+- 📌 I’m currently learning .py | .js | .c# | .lua ⚫
 
 <!-- - 🎮 Steam [steam_profile](https://steamcommunity.com/id/RainyHere/)-->
 
