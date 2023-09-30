@@ -1,6 +1,6 @@
  uses: Platane/snk/svg-only@v3
   with:
-    github_user_name: ${{ github.repository_owner }}
+    github_user_name: NyctoRAA
 
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
