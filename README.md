@@ -75,7 +75,7 @@
     </a>
 </div>
 <!-- End Footer -->
-![snake animation](https://github.com/<NyctoRAA>/<NyctoRAA>/blob/output/github-contribution-grid-snake2.svg)
+
 
             
 
