@@ -75,7 +75,7 @@
     </a>
 </div>
 <!-- End Footer -->
-![snake gif](https://github.com/NyctoRAA/NyctoRAA/blob/output/github-contribution-grid-snake.gif)
+<img src="https://activity-graph.herokuapp.com/graph?username=NyctoRAA&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
             
 
