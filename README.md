@@ -75,6 +75,7 @@
     </a>
 </div>
 <!-- End Footer -->
+![snake gif](https://github.com/NyctoRAA/NyctoRAA/blob/output/github-contribution-grid-snake.gif)
 
             
 
