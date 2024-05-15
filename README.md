@@ -29,6 +29,8 @@
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/raDOTexe/)
 
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-amaral-95b04326b/)
+
 <!--<img align="right" alt="GIF" src="https://github.com/NyctoRAA/NyctoRAA/blob/main/code.gif" width="500" height="320" />-->
 
 <p align="left">
