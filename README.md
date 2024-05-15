@@ -23,7 +23,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vzjj5ljfv43uzwgx1kzfajjfy/)
 
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/RainyHere/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/raDOTexe/)
 
 <!--<img align="right" alt="GIF" src="https://github.com/NyctoRAA/NyctoRAA/blob/main/code.gif" width="500" height="320" />-->
 
