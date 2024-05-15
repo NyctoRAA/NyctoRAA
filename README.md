@@ -18,10 +18,6 @@
      <a href="https://twitter.com/ramaral__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramaral__" height="30" width="40" /></a>
           <a href="https://discord.gg/https://discord.gg/sdxyyDuGM2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/sdxyyDuGM2" height="30" width="40" /></a>
           <a href="https://github.com/NyctoRAA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://discord.gg/sdxyyDuGM2" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/rodrigo-amaral-95b04326b/" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a> &nbsp; 
-
 </p>
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vzjj5ljfv43uzwgx1kzfajjfy/)
