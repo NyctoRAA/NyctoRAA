@@ -3,9 +3,9 @@
 <!--### print('Hello World 🌍')-->
 <!--![Typing SVG](https://readme-typing-svg.herokuapp.com?color=60a5ff&lines=print)-->
 <!--![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffba60&lines=Hello+World)-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=303030&lines=print('Hello+World'))
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=474747&lines=print('Hello+World'))
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFF00&lines=ra.exe®)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5E5E5E&lines=ra.exe®)
 
 -=-=-=-=-=-=-=-=-=-=-=-=-= ra.exe® =-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
 
